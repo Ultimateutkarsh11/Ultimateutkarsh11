@@ -2,7 +2,7 @@
 
 # Hello I am Utkarsh Rai <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width: 100%; user-select: auto;">
 
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Data Structures and algorithms
 - 📫 How to reach me: utkarshrai13@gmail.com
 - 😄 Pronouns: He/Him
 
