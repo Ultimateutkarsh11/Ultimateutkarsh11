@@ -1,13 +1,15 @@
-<img height = 500 src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
+<img height = 450 src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
 
 
-# Hello I am Utkarsh Rai <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width: 100%; user-select: auto;">
-
+# Hi there, I'm Utkarsh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width: 100%; user-select: auto;">
+- 👩‍🎓 Second year CSE student at USICT, GGSIPU.
 - 🌱 I’m currently learning Data Structures and algorithms
+- 👩‍💻 I love contributing to Open Source!❤️
 - 📫 How to reach me: utkarshrai13@gmail.com
-- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy graphic designing and playing basketball as my side hobbies.
+- 😄 Go by he/him pronouns.
 
-## Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px" style="max-width: 100%; user-select: auto;">
+## Connect with me: <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px" style="max-width: 100%; user-select: auto;">
 <a href = 'https://www.linkedin.com/in/utkarsh-rai-943777224/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
 <a href="https://twitter.com/Utkarsh95113701"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_abelisaurus_" height="30" width="40" style="max-width: 100%;"></a>
 <a href="https://medium.com/@utkarshrai13" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abhilipsasahoo03" height="30" width="40" style="max-width: 100%;"></a>
