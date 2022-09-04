@@ -1,4 +1,5 @@
-<img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="518" height="387.97991967871485" alt="Coding GIF - Coding GIFs" style="max-width: 518px; user-select: auto;">
+<img height = 500 src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
+
 
 # Hello I am Utkarsh Rai <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width: 100%; user-select: auto;">
 
@@ -19,8 +20,6 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
  
 </p>
-
-
 
 ## ⚙️ GitHub Analytics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ultimateutkarsh11&show_icons=true&theme=radical)
