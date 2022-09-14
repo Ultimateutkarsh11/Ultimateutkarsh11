@@ -1,6 +1,5 @@
 <img height = 450 src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
 
-
 # Hi there, I'm Utkarsh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width: 100%; user-select: auto;">
 - 👩‍🎓 Second year CSE student at USICT, GGSIPU.
 - 🌱 I’m currently learning Data Structures and algorithms
@@ -18,12 +17,21 @@
 <p>
   <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height = "40px"/>
  
-  <img src="https://camo.githubusercontent.com/4a64e70fd12c123f2af41581a55645355769f126560c77dd7006b743bfe7f007/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c4d7439363338644f38646674416a74636f2f67697068792e676966" alt="python" height="40" data-canonical-src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+ <img src="https://camo.githubusercontent.com/4a64e70fd12c123f2af41581a55645355769f126560c77dd7006b743bfe7f007/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c4d7439363338644f38646674416a74636f2f67697068792e676966" alt="python" height="40" data-canonical-src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
  
 </p>
 
 ## ⚙️ GitHub Analytics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ultimateutkarsh11&show_icons=true&theme=radical)
+![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ultimateutkarsh11&show_icons=true&theme=radical)
 
-![](https://komarev.com/ghpvc/?username=Ultimateutkarsh11)
+<!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ultimateutkarsh11&layout=compact&theme=radical)](https://github.com/Ultimateutkarsh11/github-readme-stats)---!>
+
+<!--
+| <a href="https://github.com/Ultimateutkarsh11/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ultimateutkarsh11&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Utkarsh's github stats" /></a> | <a href="https://github.com/Ultimateutkarsh11/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ultimateutkarsh11&layout=compact&theme=buefy&hide_border=true&count_private=true" /></a> |
+| ------------- | ------------- |
+ -->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ultimateutkarsh11&theme=radical)](https://git.io/streak-stats)
+
+![Profile View Count](https://komarev.com/ghpvc/?username=Ultimateutkarsh11)
