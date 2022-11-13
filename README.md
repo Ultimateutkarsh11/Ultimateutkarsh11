@@ -26,6 +26,11 @@
 </p>
 
 ## ⚙️ GitHub Analytics
+
+### → Holopin Badges 👨‍💻
+
+[![@utkarsh71's Holopin board](https://holopin.me/utkarsh71)](https://holopin.io/@utkarsh71)
+
 ![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ultimateutkarsh11&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ultimateutkarsh11&theme=radical)](https://git.io/streak-stats)
