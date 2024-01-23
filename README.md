@@ -1,7 +1,7 @@
 <img height = 450 src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
 
 # Hi there, I'm Utkarsh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width: 100%; user-select: auto;">
-- 👩‍🎓 Second year CSE student at USICT, GGSIPU.
+- 👩‍🎓 Third year CSE student at USICT, GGSIPU.
 - 🌱 I’m currently learning Data Structures and algorithms
 - 👩‍💻 I love contributing to Open Source!❤️
 - 📫 How to reach me: utkarshrai13@gmail.com
