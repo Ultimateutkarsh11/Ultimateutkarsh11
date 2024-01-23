@@ -21,6 +21,7 @@
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img height=50 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/>
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
 <img height=49 src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"/>
 <!-- <img height=49 src="https://vectorlogoseek.com/wp-content/uploads/2020/06/figma-vector-logo.png"/> -->
