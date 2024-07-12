@@ -13,7 +13,7 @@
 <a href="https://medium.com/@utkarshrai13" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abhilipsasahoo03" height="40" width="40" style="max-width: 100%;"></a>
 <a href="https://twitter.com/Utkarsh95113701"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_abelisaurus_" height="40" width="40" style="max-width: 100%;"></a>
 
-## Languages and Tools ⚒️
+## Languages and Tools <img src="https://media.tenor.com/Pnb_hVWq2sgAAAAj/on-process-dig.gif" width="53" width="53"/>
 <p>
  
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
