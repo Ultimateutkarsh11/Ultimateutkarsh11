@@ -1,4 +1,4 @@
-<img height = 450 width = 800 src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
+<img height = 450 width = 900 src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
 
 # Hey, I'm Utkarsh! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width: 100%; user-select: auto;">
 - 👨‍💻 Final year CSE student at USICT, GGSIPU.
