@@ -14,19 +14,8 @@
 <a href="https://twitter.com/Utkarsh95113701"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_abelisaurus_" height="40" width="40" style="max-width: 100%;"></a>
 
 ## Languages and Tools <img src="https://media.tenor.com/Pnb_hVWq2sgAAAAj/on-process-dig.gif" width="53" width="53"/>
-<p>
- 
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-<img height=50 src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" />
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img height=50 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
-<img height=49 src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"/>
-<!-- <img height=49 src="https://vectorlogoseek.com/wp-content/uploads/2020/06/figma-vector-logo.png"/> -->
- 
-</p>
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,nodejs,express,mysql,mongodb,git,github,figma)](https://skillicons.dev) 
 
 ## ⚙️ GitHub Analytics
 
