@@ -2,10 +2,10 @@
 
 # Hey, I'm Utkarsh! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width: 100%; user-select: auto;">
 - 👨‍💻 Currently working at Airtel, with interests in automation, software development, and AI/ML
-- 🌱 I’m currently learning Data Structures and algorithms
+- 🌱 I’m currently learning Data Structures and Algorithms
 - ❤️ I love contributing to Open Source!
 - 📫 How to reach me: utkarshrai13@gmail.com
-- ⚡ Fun fact: I enjoy graphic designing and playing basketball as my hobbies
+- ⚡ Fun fact: I enjoy graphic designing, photography and playing basketball as my hobbies
 - 😄 Go by he/him pronouns
 
 ## Connect with me:<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="85px" style="max-width: 100%; user-select: auto;">
