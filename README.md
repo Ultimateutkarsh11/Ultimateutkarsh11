@@ -1,7 +1,7 @@
 <img height = 450 width = 810 src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
 
 # Hey, I'm Utkarsh! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width: 100%; user-select: auto;">
-- 👨‍💻 Currently working at Airtel
+- 👨‍💻 Currently working at Airtel, with interests in automation, software development, and AI/ML
 - 🌱 I’m currently learning Data Structures and algorithms
 - ❤️ I love contributing to Open Source!
 - 📫 How to reach me: utkarshrai13@gmail.com
