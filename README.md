@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning Data Structures and algorithms
 - ❤️ I love contributing to Open Source!
 - 📫 How to reach me: utkarshrai13@gmail.com
-- ⚡ Fun fact: I enjoy graphic designing and playing basketball as my hobbies.
-- 😄 Go by he/him pronouns.
+- ⚡ Fun fact: I enjoy graphic designing and playing basketball as my hobbies
+- 😄 Go by he/him pronouns
 
 ## Connect with me:<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="85px" style="max-width: 100%; user-select: auto;">
 <a href = 'https://www.linkedin.com/in/utkarsh-rai-943777224/'> <img width = '38px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
